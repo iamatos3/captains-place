@@ -5,7 +5,7 @@ const menu = [
     category: 'breakfast',
     price: 15.99,
     img: '/images/item-1.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Fluffy buttermilk pancakes served with butter and maple syrup, a classic breakfast delight that can be customized with a variety of toppings. `,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: 'lunch',
     price: 13.99,
     img: '/images/item-2.jpeg',
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Indulge in our diner-style double cheeseburger, featuring two juicy beef patties layered with melted cheese, topped with fresh lettuce, ripe tomatoes, and tangy pickles, all nestled between toasted sesame seed buns. Served with a side of crispy fries, it's a hearty and satisfying classic. `,
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const menu = [
     category: 'shakes',
     price: 6.99,
     img: '/images/item-3.jpeg',
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `Experience the colossal flavors of our Godzilla milkshake, a towering treat that combines rich and creamy vanilla ice cream with luscious chocolate syrup, topped with whipped cream, a sprinkle of crushed cookies, and a cherry on top. This monster-sized milkshake is sure to satisfy your sweet tooth and leave you roaring for more.`,
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const menu = [
     category: 'breakfast',
     price: 20.99,
     img: '/images/item-4.jpeg',
-    desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+    desc: `A hearty morning feast that features farm-fresh eggs, crispy bacon or sausage links, golden hash browns, and a side of fluffy buttermilk biscuits smothered in creamy country-style gravy. It's a comforting and satisfying way to start your day with a taste of the countryside. `,
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const menu = [
     category: 'lunch',
     price: 22.99,
     img: '/images/item-5.jpeg',
-    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    desc: `Experience a flavor explosion with our Egg Attack cheeseburger, a delicious combination of a juicy beef patty topped with melted cheese, crispy bacon, fresh lettuce, ripe tomatoes, and our signature egg sunny-side up. All nestled between a toasted bun, this mouthwatering creation is sure to leave you satisfied and craving more. `,
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const menu = [
     category: 'shakes',
     price: 18.99,
     img: '/images/item-6.jpeg',
-    desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    desc: `Creamy delight that combines velvety vanilla ice cream with crushed Oreo cookies, topped with whipped cream and a drizzle of chocolate sauce. This decadent milkshake is a true Oreo lover's dream, offering a sweet and satisfying treat that will transport you to dessert paradise. `,
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const menu = [
     category: 'breakfast',
     price: 8.99,
     img: '/images/item-7.jpeg',
-    desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    desc: `A breakfast masterpiece overflowing with layers of crispy bacon, fluffy scrambled eggs, melted cheese, and a touch of tangy sauce, all nestled between toasted artisan bread. This mouthwatering creation is a hearty and flavorful way to start your day, guaranteed to satisfy your cravings and keep you energized. `,
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const menu = [
     category: 'lunch',
     price: 12.99,
     img: '/images/item-8.jpeg',
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `A timeless favorite that features a juicy beef patty cooked to perfection, topped with melted American cheese, crisp lettuce, ripe tomatoes, sliced pickles, and our special house sauce, all served on a soft toasted bun. This iconic burger is the epitome of comfort food, delivering a delicious and satisfying taste of Americana. `,
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const menu = [
     category: 'shakes',
     price: 16.99,
     img: '/images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `Introducing the Quarantine Buddy milkshake, a delightful treat meant to be shared with your favorite person. This milkshake combines creamy vanilla and chocolate ice cream swirled together, topped with a mountain of whipped cream, colorful sprinkles, and a cherry on top. Served with two straws, it's a sweet reminder to cherish the moments with your quarantine buddy while savoring every sip of this delectable creation. `,
   },
 ];
 export default menu;
